@@ -1,4 +1,8 @@
 Open vs code:-
+
+Prerequisite:- node should be installed
+
+
 FRONTEND:-    
 In Terminal write :- npx create-react-app client
 
@@ -17,5 +21,5 @@ BACKEND:-
    
    write command:- npm i express multer cors nodemon
    
-   start the sever, nodemon app.js
+   start the sever, nodemon app.js/node.app.js
    
